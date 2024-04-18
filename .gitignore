@@ -1,0 +1,6 @@
+.Xil
+vivado_*
+vivado.*
+BRAM/BRAM_ip
+*.tmp
+*.log
